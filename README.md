@@ -1,4 +1,4 @@
-## Olá sou a Eduarda, estudante de Gestão de T.I e programação!
+## Olá sou a Eduarda, estudante de Gestão de T.I e Desenvolvimento Fullstack!
 
 <p align="center">
   🔹 Analista de Integrações & Suporte Técnico <br>
