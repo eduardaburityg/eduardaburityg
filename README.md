@@ -3,7 +3,7 @@
 <p align="center">
   🔹 Analista de Integrações & Suporte Técnico <br>
   🔹 Automação de Processos | Webhooks | APIs <br>
-🔹 Estudante de Desenvolvimento Fullstack <br>
+
 </p>
 
 <div style="display: inline_block"><br>
