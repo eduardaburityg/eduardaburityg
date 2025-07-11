@@ -2,7 +2,7 @@
 
 <p align="center">
   🔹 Analista de Integrações & Suporte Técnico <br>
-  🔹 Automação de Processos | Webhooks | APIs <br>
+  🔹 Automação de Processos | Webhooks | APIs | Testes <br>
 
 </p>
 
