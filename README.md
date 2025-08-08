@@ -1,8 +1,8 @@
 ## 👋 Olá! Eu sou a Eduarda
 
 <p align="center">
-  🔹 Analista de Integrações & Suporte Técnico <br>
-  🔹 Foco em Automação de Processos | Webhooks | APIs | Testes de Software <br>
+  🔹 Analista de No-Code e Low-Code & Suporte Técnico de sistemas <br>
+  🔹 Foco em Automação | Webhooks | APIs | N8N | Testes de Software | QA <br>
 
 
 ## 
