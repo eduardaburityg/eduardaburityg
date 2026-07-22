@@ -1,15 +1,15 @@
 ## 👋 Olá! Eu sou a Eduarda
 
 <p align="center">
-  🔹 Analista de No-Code e Low-Code & Suporte Técnico de sistemas <br>
-  🔹 Foco em Automação | Webhooks | APIs | N8N | Testes de Software | QA <br>
-
+  🔹 Desenvolvedora Full-Stack |  No-Code e Low-Code | Automação & Agentes de IA <br>
+  🔹 Foco em Automação | Desenvolvimento de automações | Webhooks | APIs | N8N | <br>
 
 ## 
 
-- 🖥️ Graduanda em Gestão de T.I  
-- 🎓 Cursando Desenvolvimento Fullstack  
-- 📚 Estudando JavaScript, Python, Node.js, React, Testes de Software 
+- 🔎 Construo agentes de IA, automações e integrações entre sistemas com n8n
+- 🖥️ Graduanda em Gestão de T.I 
+- 🎓 Formada em Desenvolvimento Fullstack (+praTI)
+- 📚 Engenheira de Automação com IA e atuo do front ao back-end: React, Next.js, Node.js, PostgreSQL/Supabase
 - 🌍 Apaixonada por tecnologia e automação
 
 ---
